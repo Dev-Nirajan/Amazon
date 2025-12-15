@@ -4,6 +4,9 @@
   box-sizing: border-box;
 }
 
+.container{
+padding: 0 10px 0 10px;
+}
 .navbar {
   height: 60px;
   background-color: #0f1111;
