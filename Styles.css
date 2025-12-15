@@ -20,7 +20,7 @@
   width: 100px;
 }
 .logo {
-  background-image: url(logo2.png);
+  background-image: url(/Img-File/logo2.png);
   width: 100px;
   height: 50px;
   background-size: cover;
@@ -136,7 +136,7 @@
 /* hero section */
 
 .hero-section {
-  background-image: url(hero-image.jpg);
+  background-image: url(Img-File/hero-image.jpg);
   height: 350px;
   background-size: cover;
 }
@@ -147,7 +147,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  background-image: url(hero-background-image.jpg); 
+  background-image: url(Img-File/hero-background-image.jpg); 
   background-size: cover;
   height: 900px;
 }
@@ -215,7 +215,7 @@ ul{
 }
 
 .logo-foot {
-  background-image: url(logo2.png);
+  background-image: url(Img-File/logo2.png);
   width: 100px;
   height: 50px;
   background-size: cover;
